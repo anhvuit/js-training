@@ -1,1 +1,3 @@
-# js-training
+# practice-js
+All experiment about js
+
